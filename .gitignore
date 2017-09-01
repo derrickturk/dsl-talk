@@ -1,4 +1,8 @@
 *.swp
 *.swo
+*.o
+*.exe
+*.dll
+*.hi
 ~$*
 scratch/*
